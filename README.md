@@ -8,7 +8,9 @@
 
 ## Taller de Programación
 
-## Segundo Proyecto **Snake in Python**
+## Segundo Proyecto 
+
+## Snake in Python :snake:
 
 ## Randald Villegas Brenes
 
